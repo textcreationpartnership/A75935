@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony against the false teachers of this generation by one who is come from under them, unto the true teacher and shepherd of the soul</title>
+            <author>Abbott, Margaret.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75935</idno>
+            <idno type="STC">Wing A70A</idno>
+            <idno type="STC">ESTC R231146</idno>
+            <idno type="EEBO-CITATION">99897242</idno>
+            <idno type="PROQUEST">99897242</idno>
+            <idno type="VID">136891</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75935)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136891)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2469:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony against the false teachers of this generation by one who is come from under them, unto the true teacher and shepherd of the soul</title>
+                  <author>Abbott, Margaret.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1659?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint conjectured by Wing (CD-ROM edition).</note>
+                  <note>Signed at end: Margaret Abbott.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Anabaptists --  Apologetic works --  Early works to 1800.</term>
+               <term>Baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:136891:1"/>
+            <pb n="1" facs="tcp:136891:1"/>
+            <head>A TESTIMONY Againſt the Falſe TEACHERS OF THIS GENERATION By one who is come from under them, unto the true Teacher and ſhepherd of the ſoul.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hirty years (or more) I was a hearer of the Prieſts, while I did ſee that they had an end more then to the glory of God; they turned their coats when they ſaw that tythes ſhould be taken from them; then did I leave them when I ſaw that, then did I ſee that they were not the Miniſters of God, but they were hirelings &amp; falſe tea<g ref="char:EOLhyphen"/>chers, &amp; remains ſo to this day, &amp; leads the people into captivity, and preaches peace to them ſo long as they will put into their mouths, and tells them they can never be free from ſin in this life; but when I came to be lighted with the light of Jeſus Chriſt, I ſaw another thing, (though before I had run from it as others do, but) then it brought thought, word, and deed to judgement, and all that had been done to that day, and it let me ſee that Prieſts and people were profeſſing the Saints words, &amp; out of the life &amp; pow<g ref="char:EOLhyphen"/>er of the Saints; it let me ſee all ſects and judgements of men, all
+<pb n="2" facs="tcp:136891:2"/>out of the life and power of God, <hi>Anabaptiſts,</hi> and o<g ref="char:EOLhyphen"/>thers, a teaching people, and need to be taught themſelves, ſo as I came to be obedient, and the old bottle to be broke, the new Wine came to be poured in: Now the Scripture was given to the Scribes &amp; Phariſees in parables; now to come to read your ſelves with the light of Chriſt Jeſus, you will witneſs the Scripture true, it wil be no more a parable to you, as you come to let the Witneſs of Jeſus Chriſt ariſe in you, you ſhall be made a new by the power of the pure ſpirit of the Son of God, it will teach you to deny all ungodlineſs, you ſhall need go to no man to be taught, it wil bring you out of all the wayes of the World, faſhions, cuſtoms, and traditions, and the Worldly-Worſhips, and out of all their ways, into the one way, to be led by the ſpirit of the Son of God; none comes at the Father, but whom is lead by the ſpirit of his Son; who<g ref="char:EOLhyphen"/>ever believes in him, he gives them power to be ſons and daugh<g ref="char:EOLhyphen"/>ters of God, no more bond-men, but made free-men, &amp; free-wo<g ref="char:EOLhyphen"/>men, living obedient unto his command, to that meaſure made manifeſt to us, all outward things done away &amp; by his power are made new, &amp; born again: Now by this Power our blind eyes comes to be opened, and our deaf ears to hear, and our hearts comes to underſtand the things belonging unto our peace; and as we are faithful and obedient, we come to ſee our ſelves, and to ſee what acts for God, and what acts againſt him; and as this Work goes forward, we cannot ſubmit to the will of man, but to the will of God; Chriſt was counted a deceiver when he was upon the earth, ſo was <hi>Paul</hi> and <hi>Silas,</hi> ſo are the Lords Prophets now: Chriſt was called <hi>Beelzebub,</hi> the Prince of the Devils, and Chriſt is our ex<g ref="char:EOLhyphen"/>ample, to the meaſure of him I direct you: You ſay, you believe in Chriſt, and remains in darkneſs, and ſo you are lyars; for them that believes in Chriſt, and comes into obedience to him, they receive power from him to overcome uncleanneſs, and therefore you are ſeen to profeſs Chriſt with your lips, &amp; your hearts far from him; you are ſeen in your fallen eſtate, alienated from the Lord, for the Lord ſpeaks no peace to the wicked: Who comes to be Witneſſes for the Lord, witneſs his Word as ſharp as a two-edged Sword, and as a flame of fire that burns up all that ſtands againſt him. This is the truth of the Lord God to you all where ever this comes; you can read this Work is to be done in the Scriptures
+<pb n="3" facs="tcp:136891:2"/>without you; Chriſt ſaith, <hi>Search the Scriptures, for in them ye think to have eternal life, and they are them that teſtifies of me, but ye will not come unto me that ye may have life;</hi> but profeſs what you will of the Scriptures without you, until you come to be obedient to the light of Chriſt Jeſus within you, the Scripture cannot you know; and as you become obedient to the light of Chriſt, you will come into the life and power which gave them forth, and to witneſs the Scripture true, and it will be no more a parable to you, for this is the day of the Lords power, it is he that ſearcheth the heart, and tryeth the reins, (I witneſs it) he leaves no corner unſearch't; he is come to look for fruit, that tree that does not bring fruit unto God, is to be hewed down; he is gathering his people together, and building them up upon his holy Mountain, Chriſt Jeſus the Son of God: To you which are of the World, I write this, that the Lord would gather you, but you refuſe to be gathered by him no further then your own will; Therefore I warn you in the fear of the Lord, as you prize your everlaſting peace with him, to be<g ref="char:EOLhyphen"/>come obedient to the Witneſs of the Lord within you; but this you cannot know in your fallen Wiſdom; therefore I warn you to let the time paſt that you have ſpent in your pride, in your vain glory, &amp; vain ſporting your ſelvs be ſufficient, &amp; be obedient to the Light of Chriſt Jeſus within you, that you may no more be diſo<g ref="char:EOLhyphen"/>bedient, but obedient, that you may no longer be profeſſors, but to poſſeſs with them that are come to be ſervants of God, &amp; lives in obedience to him every day, and is able, and knows the great in<g ref="char:EOLhyphen"/>comes of the love of God, and knows their daylie bread from him who ſits upon the Throne at the right hand of his Father. This am I eternally moved to write to you all, therefoee ſearch &amp; try your hearts with the light of Chriſt Jeſus, &amp; prize your everlaſt<g ref="char:EOLhyphen"/>ing peace w<hi rend="sup">th</hi> him: In <hi>Adam</hi> all men fel; but God ſo loved the world he gave his onely begotten Son for a ranſom for our ſins, that whoever believed in him, (in the ſecond <hi>Adam</hi>) comes to witneſs the old <hi>Adams</hi> ſtate before he fel, if you would but let that light of Chriſt ariſe which ſhines in your dark hearts, &amp; read your ſelvs w<hi rend="sup">th</hi> it, it would open the hidden treaſure of the everlaſting Goſpel of our Lord Jeſus Chriſt, which has been hid from many generati<g ref="char:EOLhyphen"/>ons by the dark power of Satan. Truth ſhall ſtand though Gog and Magog doe reſiſt it.</p>
+            <pb n="4" facs="tcp:136891:3"/>
+            <p>Hear the Word of the Lord ye Prieſts of England, ye that call your ſelves Miniſters of Chriſt, (yet falſly) thus ſaith the Lord, Wo unto the ſhepherds that deſtroy and ſcatter my flock, ſaith the Lord; ye ſcatter and thruſt out my flock, &amp; look not upon them; therefore now will I viſit the wickedneſs of your imaginations, ſaith the Lord, &amp; I will gather together the remnant of my flock from all lands, and will bring them again to their folds, that they may grow and encreaſe; I will ſet ſhepherds alſo over them, which ſhall feed them, &amp; there ſhall none of them be loſt, ſaith the Lord.</p>
+            <p>Now mark and conſider ye Prieſts of England, is not this your own condition? Are not you ſcattering the people abroad, as it were, ſowing pillows under their elbows, in telling them that there is no perfection in this life, and though they continue in ſin, yet when they dye they ſhall be ſaved by the death of Chriſt? When as in the leaſt meaſure you have not brought them to that which is the firſt ſtep to know Chriſt by, which is the light of Chriſt mani<g ref="char:EOLhyphen"/>feſt within them; ſo you (as it were) thruſt them away from the knowledge of Chriſt, deceiving them, telling them that that which is a true Witneſs of Chriſt within them, is but the light of nature, or ſomething of a little value, which I bear a teſtimony for, will lead them into the way of truth, and ſo to the true knowledge of Chriſt Jeſus. <hi>I have ſeen (ſaith the Lord) alſo among the Prophets, foul adultery, and preſumptuous yes, they take the moſt ſhameful men by the hand, flattering them, ſo that they cannot return from their wickedneſs.</hi>
+            </p>
+            <p>Now mark and conſider, is not this your condition? If any of the ſervants of the Lord be ſent with a Meſſage from the Lord to the people, and any wicked man lay violent hands upon them, you do as it were take them by the hand, and join with them in impri<g ref="char:EOLhyphen"/>ſoning them, and whipping them, ſtocking them, ſtoning them, &amp; deſpiteful uſing them, declaring to the people that they are ſedu<g ref="char:EOLhyphen"/>cers, deceivers, Jeſuits, deluders, vomiting out moſt falſly all man<g ref="char:EOLhyphen"/>ner of lyes againſt them, ſo that you keep the people that they cannot return from their wickedneſs. Therefore dear friends and people, turn your minds to that of Chriſt within you, which ma<g ref="char:EOLhyphen"/>keth known unto you all the evil of your doings, whereof I am a Witneſs to this day; and as you come to mind it, it will ſhew you the intents and ſecrets of your hearts, &amp; bring to light the works
+<pb n="5" facs="tcp:136891:3"/>which are not wrought in God; and turn away from theſe dumb ſhepherds, which no longer then you are putting into their mouths, will ſpeak to you; and conſider what you have profited by them, how many of you have been under their Miniſtry, ſome thirty, ſome forty years, ſome more, ſome leſs, but what can you witneſs (as in the preſence of God) you have profited by them? Therefore thus ſaith the Lord, <hi>I have not ſent theſe prophets, and yet they run; I have not ſpoken to them, and yet they preached; but if they had continued in my counſel, they had opened to my people my words, and they had turned my people from their evil wayes, and wicked imagina<g ref="char:EOLhyphen"/>tions.</hi> Therefore, dear friends, conſider how many thouſands have been followers of them theſe many years, and ſtill continues in their evil ways, and wicked imaginations; therefore thus ſaith the Lord, <hi>Hear not the word of the prophets that preach unto you, and de<g ref="char:EOLhyphen"/>ceive you, truly they teach you vanity, for they ſpeak the meaning of their own hearts, and not out of the mouth of the Lord.</hi>
+            </p>
+            <p>Conſider I pray you, do not the Prieſts of <hi>England</hi> at this day ſpeak divinations of their own brain, taking other mens lines, &amp; ſpea<g ref="char:EOLhyphen"/>king from them their own thoughts, not witneſſing (in the leaſt) the life and power of thoſe that ſpake thoſe words? Therefore in love to your ſouls do I warn you to turn to the Witneſs of Chriſt within you, which will guide you into the way of truth, which will bring you to the Father; for ſaith Chriſt, <hi>I am the way, the truth, and the life, no man comes to the Father but by me:</hi> So now here is ſet before you the way to God; here (I ſay) is ſet before you life and death. <hi>Thus ſaith the Lord God which gathered toge<g ref="char:EOLhyphen"/>ther the ſcattered people, I will bring yet another Congregation to him; Come all ye Beaſts of the field, that ye may devour, all the beaſts of the wood; for his watchmen are all blind, they have altogether no underſtan<g ref="char:EOLhyphen"/>ding, they are all dumb dogs, not being able to bark; they are ſleepy, ſluggiſh are they, and lye ſnorting, the ſhepherds have no understanding, but every man turneth his own way, every one after his own covetouſneſs with all his power.</hi> Therefore friends &amp; people, conſider in the fear of the Lord, (I ſpeak in love to your ſouls) Is not this the condition of the Prieſts of England at this day? Are they not covetous? Do they not preach for hire? Do they not ſeek for large preferments? Do they not leave their flock, and go from one place to another for larger revenues? Do they not ſeek for gain from their quar<g ref="char:EOLhyphen"/>ters,
+<pb n="6" facs="tcp:136891:4"/>and if you do not give them, do they not prepare priſons for you? Therefore thus ſaith the Lord, <hi>The righteous periſheth, and no man regardeth it in his heart; godly people are taken away, and no man conſidereth it: Therefore thus ſaith the Lord, Turn ye, turn ye, why will ye dye? As I live, I do not deſire the death of a ſinner; heark<g ref="char:EOLhyphen"/>en diligently unto me, for lo (ſaith the Lord) I will teach you wiſely.</hi>
+            </p>
+            <p>And now I have a Word to you of the baptized Churches, you that ſay you are the Churches of Chriſt, and none but you, take heed, and do not go forth in imitations of the Apoſtles, into waſh<g ref="char:EOLhyphen"/>ings and dippings, and breaking of bread, and laying on of hands, not having the ſame call which the Apoſtles had; but come down to the Witneſs of God within you, and there ſee with the light of Chriſt within you, whether you be baptized your ſelves with Chriſts Baptiſm, vvhich is with the Holy Ghoſt and vvith fire; ſee vvithin you if you have paſſed through the fire vvhich <hi>John</hi> ſpeaks of; <hi>Verily</hi> (ſaith <hi>John</hi>) <hi>I baptize with water, but there comes one after me which will baptize with the holy Ghoſt, and with fire,</hi> (vvhich is Chriſts baptiſm.) So I ſay, Come to ſee your ſelves firſt baptized vvith Chriſt's baptiſm, before you go forth to baptize others; <hi>For verily (ſaith Chriſt) I will not be worſhipped in Temples made with hands, neither with any outward obſervations, but he that worſhips me, ſhall worſhip in ſpirit and in truth, for my dwelling is amongſt the ſons of men.</hi>
+            </p>
+            <p>I deſire every one that reads this, to read with the light of Chriſt within them; for many falſe things are caſt upon the children of light for beating their teſtimony for the Lord Jeſus Chriſt, having nothing juſtly to lay to their charge; let all ſober people vvhich cometh to read this, judge of it, whether theſe who falſly accuſe the upright and innocent, be not ſhut out from the kingdom of God, yea or nay, when Chriſt ſaith, He will judge every one ac<g ref="char:EOLhyphen"/>cording to the deeds done in the body, whether good or evil; I warn you in the fea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and dread of the Lord, That you let the time ſatisfie which you have ſpent in your pride, &amp; wicked words and actions againſt the pure ſpirit of the Lord Jeſus Chriſt for it vvill not ſatisfie him, that you ſay, you know him, and with your lips profeſs him, and denies him in his works, and in his wayes; ye are found in falſe accuſing, lying, and ſlandering, and with all manner of unclean Words, Works, and Actions; for them that
+<pb n="7" facs="tcp:136891:4"/>bears their teſtimony for him &amp; againſt unclean ſpirits, are made by his power to declare againſt them where ever they come; they reckon us as Hereticks, but it is little to us, for reproaches are our riches; but it is none but them vvho are of that generation which called the Maſter of the houſe <hi>Beelzebub,</hi> the Prince of Devils, vvhich are found in the evil practices now; but this is the day of the Lords power vvherein light is come into the World, but men loves darkneſs rather then light, becauſe their deeds are evil; <hi>They will not come to me that they may have life, that their deeds (which are evil) may be judged, and ſuch as are acted in the light, justified, and they reconciled unto me, ſaith Chriſt.</hi> And vve that are the children of the Lord, do bear our teſtimony that this is the day vvhich the Lord vvill pour out his ſpirit upon all fleſh, his ſons and daughters ſhall propheſie; and this is the day vvherein he is manifeſting his povver amongſt the ſons of men, and maketh knovvn his mind to his ſons, and to his daughters. Therefore fear and tremble before the Lord all ye that live in the World vvithout a God, What vvill ye do in the day of your calamity, vvhen the Lord God ſhall come to call you to judgement, to give account for vvhat you have done in the fleſh, vvhether it be good or evil? Therefore hear the Word of the Lord all you that make a mock of the Lord, and of his appearance; thus ſaith the Lord, <hi>Thus long have I ever holden out mine hands to an unfaithful people that go not the right way, but after their own imaginations, to a people that is ever defying me to my face; if thou comeſt nigh them, they ſay, Touch me not, for I am holyer then thou; all theſe men, when I am angry, ſhall be turned into ſmoke and fire that ſhall burn them for ever; behold it is written before my face, ſaith the Lord, and ſhall not be forgotten, but recompenced; I will reward it to them into their boſoms, I mean your miſdeeds, and the miſ<g ref="char:EOLhyphen"/>deeds of your fathers together, ſaith the Lord; but I will take a ſeed out of Jacob, and out of Judah, one to take poſſeſſion of my hill, my cho<g ref="char:EOLhyphen"/>ſen ſhall poſſeſs it, and my ſervants ſhall dwell there, therefore will I number you to the ſword, that ye ſhall be deſtr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed all together, for that when I called, ye gave me no anſwer; when I ſpake, ye hearkened not to me, but did wickedneſs before me, and thoſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing that leaſed me not; therefore thus ſaith the Lord God, Behold, my ſervants ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll eat, but ye ſhall have hunger; Behold, my ſervants ſhall drink, but ye ſhall have thirſt; behold, my ſervants ſhall be merry, but ye ſhall be
+<pb n="8" facs="tcp:136891:5"/>confounded; behold, my ſervants ſhall rejoice for very quietueſs of heart, but ye ſhall cry for ſorrow of heart, and complain for vexation of minde; your name ſhall ye leave accurſed among my choſen; for God ſhall ſlay you, and call his ſervants by another Name; whoſo rejoiceth upon earth, ſhall rejoice in the Lord, the true God; for the old afflicti<g ref="char:EOLhyphen"/>ons ſhall be forgotten, and taken away out of my ſight; for lo, I ſhall make a new heaven, and a new earth, and as for the old, they ſhall ne<g ref="char:EOLhyphen"/>ver more be thought upon, nor kept in mind; but the Lord ſaith, Be glad, and evermore rejoice for the things that I ſhall do; for why, behold I will make a joyful Hieruſalem, and his people joyful; yea I my ſelf will rejoyce with Hieruſalem, and be glad with my people, and the voice of weeping and wailing ſhall not be heard in her from thenceforth; they ſhall build houſes, and dwell in them; they ſhall not build, and another poſſeſs; they ſhall plant Vinyards, and eat of the fruit of them; they ſhall not plant, and another eat; but the life of my people ſhall be like a tree, and mine elect ſhall ſtill enjoy the work of their hands, they ſhall not labour in vain, nor beget with trouble, for they are the high bleſſed ſeed of the Lord, &amp; their fruits are with them; and it ſhall be, ere ever they call, I will anſwer them; while they are but yet thinking how to ſpeak, I will hear them; the Wolfe and the Lamb ſhall feed together, and the Lyon ſhall eat hay like the Bullock, but Earth ſhall be they <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pents meat; the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> shall no manſtay nor hurt one another in all my holy ill, ſaith the Lord.</hi>
+            </p>
+            <p>Therefore in the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Lord, come down to his witneſs within you, all you who are abroad wandering up and down, ſeek<g ref="char:EOLhyphen"/>ing reſt from the mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thes of men, and climbing up to heaven to your own wills; and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſpirit of truth, which is the ſpirit of the living God; bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I ſay, Woe unto all thoſe who ſtands in oppoſition againſt th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſpirit of truth; I ſay, eternally woe, and plagues, and miſery a from the Lord God will come upon all thoſe that oppoſeth the Son of God in his appearance; there<g ref="char:EOLhyphen"/>fore I ſay, repent repent, repent, while the door of mercy is open unto you leſt ye <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ut out; for without ſtands dogs; whoremon<g ref="char:EOLhyphen"/>gers; adulterers, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all that tells lies; therfore, I ſay, let this be a warning to you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from the Lord; leaſt you have your portion amongſt the hyp<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>tes, where is weeping, and wailing, and gna<g ref="char:EOLhyphen"/>ſhing of teeth for ever.</p>
+            <closer>
+               <signed>This is from one who is a witneſs to the everlaſting Truth, <hi>Margaret Abb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tt.</hi>
+               </signed>
+            </closer>
+            <trailer>THE END</trailer>
+            <pb facs="tcp:136891:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
